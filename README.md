@@ -3,7 +3,7 @@
 
 ## GitHub statistics
 
-<!-- [![Kendall's's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=kendallm3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+![Kendall's's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=kendallm3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kendall's Github stats](https://github-readme-stats.vercel.app/api?username=kendallm3&show_icons=true&hide_border=true&count_private=true)
 
